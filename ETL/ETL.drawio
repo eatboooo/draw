@@ -1,0 +1,144 @@
+<mxfile host="65bd71144e">
+    <diagram id="0WOPJTrIAdzrLueGacQA" name="第 1 页">
+        <mxGraphModel dx="2532" dy="731" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" background="#ffffff" math="1" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="43" value="" style="group;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="-10" y="280" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;sketch=1;curveFitting=1;jiggle=2;" parent="43" vertex="1">
+                    <mxGeometry width="90.45305318450426" height="88.64084044648718" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;sketch=1;curveFitting=1;jiggle=2;" parent="43" vertex="1">
+                    <mxGeometry x="9.84898227183191" y="10" width="90.45305318450426" height="88.64084044648718" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;sketch=1;curveFitting=1;jiggle=2;" parent="43" vertex="1">
+                    <mxGeometry x="19.69796454366382" y="20" width="90.45305318450426" height="88.64084044648718" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;sketch=1;curveFitting=1;jiggle=2;" parent="43" vertex="1">
+                    <mxGeometry x="29.546946815495726" y="30" width="90.45305318450426" height="88.64084044648718" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="" style="group;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="230" y="310" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="44" vertex="1">
+                    <mxGeometry width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="44" vertex="1">
+                    <mxGeometry x="10" y="10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="数据提取" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="44" vertex="1">
+                    <mxGeometry x="20" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="shape=flexArrow;endArrow=classic;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="140" y="350" as="sourcePoint"/>
+                        <mxPoint x="200" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="431" y="430" width="120" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.433;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="50" target="62" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="id1～1000数据" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="431" y="620" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="id 1002～3000数据" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="431" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="....." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="431" y="500" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="group;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="620" y="310" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="59" vertex="1">
+                    <mxGeometry width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="59" vertex="1">
+                    <mxGeometry x="10" y="10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="数据转换" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="59" vertex="1">
+                    <mxGeometry x="20" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="38" target="52" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="370" y="410"/>
+                            <mxPoint x="490" y="410"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="80" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;fillColor=#1ba1e2;strokeColor=#006EAF;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="69" target="78" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="40" target="60" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="45" y="200"/>
+                            <mxPoint x="680" y="200"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="73" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;相关信息读取&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;curveFitting=1;jiggle=2;" parent="72" vertex="1" connectable="0">
+                    <mxGeometry x="-0.0372" y="2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75" value="" style="group;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="1101" y="310" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="75" vertex="1">
+                    <mxGeometry width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="75" vertex="1">
+                    <mxGeometry x="10" y="10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="数据加载" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="75" vertex="1">
+                    <mxGeometry x="20" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;imageBackground=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="1359.996946815496" y="305.68" width="90.45305318450426" height="88.64084044648718" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="" style="shape=flexArrow;endArrow=classic;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1270" y="349.5" as="sourcePoint"/>
+                        <mxPoint x="1330" y="349.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="87" value="只读数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;labelBackgroundColor=none;labelBorderColor=none;fontColor=#121712;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry y="400" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="目标数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;labelBackgroundColor=none;labelBorderColor=none;fontColor=#121712;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="1360" y="400" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="" style="group;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="880" y="429" width="120" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="89" vertex="1">
+                    <mxGeometry width="120" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="组装好的1000条数据" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="89" vertex="1">
+                    <mxGeometry y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="组装好的1000条数据" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="89" vertex="1">
+                    <mxGeometry y="130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="组装好的501条数据" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="89" vertex="1">
+                    <mxGeometry y="70" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="...." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="89" vertex="1">
+                    <mxGeometry y="10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;fontSize=16;fillColor=#1ba1e2;strokeColor=#006EAF;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="62" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="940" y="431" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
