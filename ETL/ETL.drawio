@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="0WOPJTrIAdzrLueGacQA" name="第 1 页">
-        <mxGraphModel dx="1386" dy="723" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" background="none" math="1" shadow="0">
+        <mxGraphModel dx="1132" dy="723" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" background="none" math="1" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -71,12 +71,7 @@
                     <mxGeometry x="105" y="60" width="42" height="42" as="geometry"/>
                 </mxCell>
                 <mxCell id="65" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="38" target="52" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="351" y="410"/>
-                            <mxPoint x="471" y="410"/>
-                        </Array>
-                    </mxGeometry>
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="80" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;fillColor=#1ba1e2;strokeColor=#006EAF;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="69" target="78" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -84,8 +79,10 @@
                 <mxCell id="72" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="40" target="60" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="45" y="200"/>
-                            <mxPoint x="680" y="200"/>
+                            <mxPoint x="67" y="205"/>
+                            <mxPoint x="357" y="205"/>
+                            <mxPoint x="357" y="201"/>
+                            <mxPoint x="661" y="201"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
