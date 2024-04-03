@@ -1,0 +1,76 @@
+<mxfile host="65bd71144e">
+    <diagram id="BZZcQW6atTqjhy44g_oU" name="第 1 页">
+        <mxGraphModel dx="978" dy="612" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="177" value="归并排序内部逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=auto;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="176" y="92" width="185" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="181" value="有序数组" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="195" y="285" width="444" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="203" value="merge" style="edgeStyle=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=16;" parent="1" source="182" target="202" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="182" value="有序数组" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="639" y="285" width="444" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="185" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="195" y="405" width="442" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="183" value="有序数组" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="185" vertex="1">
+                    <mxGeometry width="221" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="184" value="有序数组" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="185" vertex="1">
+                    <mxGeometry x="221" width="221" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="186" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="192" y="531" width="224" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="187" value="有序数组" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="186" vertex="1">
+                    <mxGeometry width="112" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="188" value="有序数组" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="186" vertex="1">
+                    <mxGeometry x="112" width="112" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="190" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="153" y="684" width="108" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="191" value="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="190" vertex="1">
+                    <mxGeometry width="54" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="192" value="2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="190" vertex="1">
+                    <mxGeometry x="54" width="54" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="193" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="329" y="684" width="108" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="194" value="4" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="193" vertex="1">
+                    <mxGeometry width="54" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="195" value="6" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="193" vertex="1">
+                    <mxGeometry x="54" width="54" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="196" value="merge" style="edgeStyle=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=16;" parent="1" source="192" target="187" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="199" value="merge" style="edgeStyle=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=16;" parent="1" source="195" target="188" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="200" value="merge" style="edgeStyle=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=16;" parent="1" source="188" target="183" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="201" value="merge" style="edgeStyle=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=16;" parent="1" source="184" target="181" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="202" value="有序数组" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="192" y="167" width="894" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="204" value="merge 是如何进行的？&lt;br&gt;1. 申请一个 help 数组&lt;br&gt;2.绿色数组，蓝色数组，各自需要一个指针&lt;br&gt;3.比较两个数组指针对应的值&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;- 把小的放入 help 中&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;- 假设是绿色数组的值小，则绿色数组的指针后移（蓝色同理）&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;- 只到绿色或蓝色数组遍历完成&lt;br&gt;4.把没有遍历完成的数组剩余的值，直接填充到 help 尾部&lt;br&gt;5.此时 help 即为合并后的有序数组" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="521" width="634" height="239" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
