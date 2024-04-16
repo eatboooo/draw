@@ -1,67 +1,67 @@
 <mxfile host="65bd71144e">
     <diagram id="BZZcQW6atTqjhy44g_oU" name="第 1 页">
-        <mxGraphModel dx="1770" dy="1147" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="1" shadow="0">
+        <mxGraphModel dx="724" dy="612" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="1" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="181" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="177" target="180">
+                <mxCell id="181" value="" style="edgeStyle=none;html=1;" parent="1" source="177" target="180" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="183" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="177" target="182">
+                <mxCell id="183" value="" style="edgeStyle=none;html=1;" parent="1" source="177" target="182" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="177" value="0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" vertex="1" parent="1">
+                <mxCell id="177" value="0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" parent="1" vertex="1">
                     <mxGeometry x="745" y="149" width="76" height="76" as="geometry"/>
                 </mxCell>
-                <mxCell id="185" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="180" target="184">
+                <mxCell id="185" value="" style="edgeStyle=none;html=1;" parent="1" source="180" target="184" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="187" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="180" target="186">
+                <mxCell id="187" value="" style="edgeStyle=none;html=1;" parent="1" source="180" target="186" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="180" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" vertex="1" parent="1">
+                <mxCell id="180" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" parent="1" vertex="1">
                     <mxGeometry x="435" y="335" width="76" height="76" as="geometry"/>
                 </mxCell>
-                <mxCell id="190" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="182" target="189">
+                <mxCell id="190" value="" style="edgeStyle=none;html=1;" parent="1" source="182" target="189" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="192" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="182" target="191">
+                <mxCell id="192" value="" style="edgeStyle=none;html=1;" parent="1" source="182" target="191" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="182" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" vertex="1" parent="1">
+                <mxCell id="182" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" parent="1" vertex="1">
                     <mxGeometry x="1035" y="325" width="76" height="76" as="geometry"/>
                 </mxCell>
-                <mxCell id="194" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="184" target="193">
+                <mxCell id="194" value="" style="edgeStyle=none;html=1;" parent="1" source="184" target="193" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="196" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="184" target="195">
+                <mxCell id="196" value="" style="edgeStyle=none;html=1;" parent="1" source="184" target="195" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="184" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" vertex="1" parent="1">
+                <mxCell id="184" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" parent="1" vertex="1">
                     <mxGeometry x="285" y="495" width="76" height="76" as="geometry"/>
                 </mxCell>
-                <mxCell id="199" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="186" target="198">
+                <mxCell id="199" value="" style="edgeStyle=none;html=1;" parent="1" source="186" target="198" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="186" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" vertex="1" parent="1">
+                <mxCell id="186" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" parent="1" vertex="1">
                     <mxGeometry x="559" y="495" width="76" height="76" as="geometry"/>
                 </mxCell>
-                <mxCell id="189" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" vertex="1" parent="1">
+                <mxCell id="189" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" parent="1" vertex="1">
                     <mxGeometry x="910" y="493" width="76" height="76" as="geometry"/>
                 </mxCell>
-                <mxCell id="191" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" vertex="1" parent="1">
+                <mxCell id="191" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" parent="1" vertex="1">
                     <mxGeometry x="1160" y="495" width="76" height="76" as="geometry"/>
                 </mxCell>
-                <mxCell id="193" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" vertex="1" parent="1">
+                <mxCell id="193" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" parent="1" vertex="1">
                     <mxGeometry x="189" y="614" width="76" height="76" as="geometry"/>
                 </mxCell>
-                <mxCell id="195" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" vertex="1" parent="1">
+                <mxCell id="195" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" parent="1" vertex="1">
                     <mxGeometry x="356" y="614" width="76" height="76" as="geometry"/>
                 </mxCell>
-                <mxCell id="198" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" vertex="1" parent="1">
+                <mxCell id="198" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=27;" parent="1" vertex="1">
                     <mxGeometry x="498" y="612" width="76" height="76" as="geometry"/>
                 </mxCell>
-                <mxCell id="200" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;逻辑上是一颗完全二叉树&lt;br&gt;实际用数组来存储&lt;br&gt;&lt;br&gt;二叉树的数字即为数组的位置&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=阿里妈妈方圆体 VF;fontSize=27;fontColor=default;" vertex="1" parent="1">
+                <mxCell id="200" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;逻辑上是一颗完全二叉树&lt;br&gt;实际用数组来存储&lt;br&gt;&lt;br&gt;二叉树的数字即为数组的位置&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=阿里妈妈方圆体 VF;fontSize=27;fontColor=default;" parent="1" vertex="1">
                     <mxGeometry x="111" y="93" width="409" height="198" as="geometry"/>
                 </mxCell>
             </root>
