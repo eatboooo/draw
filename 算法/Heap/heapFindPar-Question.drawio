@@ -1,0 +1,58 @@
+<mxfile host="65bd71144e">
+    <diagram id="BZZcQW6atTqjhy44g_oU" name="第 1 页">
+        <mxGraphModel dx="1770" dy="1147" grid="0" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="1" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="289" value="多个线段重复数量&lt;br&gt;&lt;br&gt;找到在某个index下，重合数量最多是多少" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=LXGW WenKai;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="43" y="49" width="443" height="95" as="geometry"/>
+                </mxCell>
+                <mxCell id="293" value="0" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="477" y="528" width="62" height="62" as="geometry"/>
+                </mxCell>
+                <mxCell id="294" value="1" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="539" y="528" width="62" height="62" as="geometry"/>
+                </mxCell>
+                <mxCell id="295" value="2" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="601" y="528" width="62" height="62" as="geometry"/>
+                </mxCell>
+                <mxCell id="296" value="3" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="663" y="528" width="62" height="62" as="geometry"/>
+                </mxCell>
+                <mxCell id="297" value="4" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="725" y="528" width="62" height="62" as="geometry"/>
+                </mxCell>
+                <mxCell id="298" value="5" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="787" y="528" width="62" height="62" as="geometry"/>
+                </mxCell>
+                <mxCell id="299" value="6" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="849" y="528" width="62" height="62" as="geometry"/>
+                </mxCell>
+                <mxCell id="300" value="7" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="911" y="528" width="62" height="62" as="geometry"/>
+                </mxCell>
+                <mxCell id="301" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="477" y="466" width="124" height="21" as="geometry"/>
+                </mxCell>
+                <mxCell id="302" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="477" y="404" width="188" height="21" as="geometry"/>
+                </mxCell>
+                <mxCell id="303" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+                    <mxGeometry x="545" y="346" width="441" height="21" as="geometry"/>
+                </mxCell>
+                <mxCell id="304" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="725" y="298" width="261" height="21" as="geometry"/>
+                </mxCell>
+                <mxCell id="305" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="539" y="261" width="261" height="21" as="geometry"/>
+                </mxCell>
+                <mxCell id="307" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+                    <mxGeometry x="481" y="180" width="116" height="19" as="geometry"/>
+                </mxCell>
+                <mxCell id="309" value="此时1位置重合最多，并且为5条&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;所以答案返回 5&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=LXGW WenKai;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="38" y="242" width="345" height="67" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
