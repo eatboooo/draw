@@ -1,0 +1,100 @@
+<mxfile host="65bd71144e">
+    <diagram id="BZZcQW6atTqjhy44g_oU" name="第 1 页">
+        <mxGraphModel dx="1770" dy="1147" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="1" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="202" value="单调栈" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=LXGW WenKai;fontSize=23;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="35" y="42" width="235" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="214" value="&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=LXGW WenKai;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="94" y="749" width="26" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="216" value="arr[] = 3,6,1,5,8,9" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=LXGW WenKai;fontSize=23;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="253" y="42" width="235" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="219" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="161" width="132" height="365" as="geometry"/>
+                </mxCell>
+                <mxCell id="220" value="arr[0]:3" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="686" y="457" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="221" value="arr[1]:6" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="686" y="384" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="223" value="step1:只要栈顶比我小,疯狂压栈" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="35" y="257" width="384" height="103" as="geometry"/>
+                </mxCell>
+                <mxCell id="224" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="564" width="132" height="365" as="geometry"/>
+                </mxCell>
+                <mxCell id="242" style="edgeStyle=none;html=1;dashed=1;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;" edge="1" parent="1" source="225">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="915" y="733" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="225" value="arr[0]:3" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="686" y="860" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="229" style="edgeStyle=none;html=1;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;dashed=1;" edge="1" parent="1" source="226">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="907" y="674" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="226" value="arr[1]:6" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="686" y="787" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="227" value="step2:只要栈顶比我大,疯狂弹出&lt;br&gt;&lt;br&gt;同时设置 resultArr&lt;br&gt;resultArr[index][1]: 即将进栈的数组下标&lt;br&gt;resultArr[index][0]: 栈中peek()的数组下标" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="35" y="660" width="449" height="186" as="geometry"/>
+                </mxCell>
+                <mxCell id="228" value="arr[2]:1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="598" y="587" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="230" value="poll()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=LXGW WenKai;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="809" y="697" width="72" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="231" value="result[1] = {0,2}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=LXGW WenKai;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="918" y="630" width="192" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="232" value="&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=LXGW WenKai;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="106.5" y="1202" width="26" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="246" style="edgeStyle=none;html=1;dashed=1;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;" edge="1" parent="1" source="233">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="900" y="1094" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="233" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="1010" width="132" height="365" as="geometry"/>
+                </mxCell>
+                <mxCell id="237" value="step3:循环 step1 &amp;amp; step2&lt;br&gt;直到 arr 遍历完成&lt;br&gt;处理栈中剩余的数字&lt;br&gt;resultArr[index][1]: -1(右边没有因为比我小的)&lt;br&gt;resultArr[index][0]: 栈中的下一个位置的 index" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="47.5" y="1113" width="578.5" height="185" as="geometry"/>
+                </mxCell>
+                <mxCell id="238" value="arr[2]:1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="684.5" y="1298" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="240" value="result[0] = {-1,2}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=LXGW WenKai;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="914" y="686" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="243" value="arr[3]:5" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="684.5" y="1229" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="244" value="arr[4]:8" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="686" y="1157" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="245" value="arr[5]:9" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="684.5" y="1089" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="247" value="poll()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=LXGW WenKai;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="816" y="1094" width="72" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="250" value="&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=LXGW WenKai;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="1157" y="1426" width="26" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="252" value="&lt;span style=&quot;text-align: center;&quot;&gt;result[5] = {4,-1}&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;result[4] = {3,-1}&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;result[3] = {2,-1}&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;result[2] = {-1,-1}&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=LXGW WenKai;fontSize=23;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="928" y="1012" width="235" height="243" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
