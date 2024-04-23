@@ -1,0 +1,178 @@
+<mxfile host="65bd71144e">
+    <diagram id="BZZcQW6atTqjhy44g_oU" name="第 1 页">
+        <mxGraphModel dx="1132" dy="723" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="1" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="202" value="滑动时间窗口" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=LXGW WenKai;fontSize=23;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="35" y="42" width="235" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="216" value="arr[] = 3,6,1,5,8,9,7,2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=LXGW WenKai;fontSize=23;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="305" y="40" width="381" height="42" as="geometry"/>
+                </mxCell>
+                <mxCell id="252" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="347" y="255" width="714" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="253" value="3" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="1">
+                    <mxGeometry x="349" y="260" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="254" value="6" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=23;" vertex="1" parent="1">
+                    <mxGeometry x="436" y="260" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="255" value="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=23;" vertex="1" parent="1">
+                    <mxGeometry x="523" y="260" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="256" value="5" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=23;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="260" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="257" value="8" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=23;" vertex="1" parent="1">
+                    <mxGeometry x="697" y="258" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="258" value="9" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=23;" vertex="1" parent="1">
+                    <mxGeometry x="784" y="260" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="259" value="7" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=23;" vertex="1" parent="1">
+                    <mxGeometry x="871" y="260" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="260" value="2" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=23;" vertex="1" parent="1">
+                    <mxGeometry x="955" y="260" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="262" value="双向队列,长度为 3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=LXGW WenKai;fontSize=23;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="35" y="94" width="235" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="266" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="172" y="364" width="282.5" height="78" as="geometry"/>
+                </mxCell>
+                <mxCell id="261" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=AlimamaDaoLiTi;fontSize=23;fontColor=default;fillColor=default;" vertex="1" parent="266">
+                    <mxGeometry width="264" height="74" as="geometry"/>
+                </mxCell>
+                <mxCell id="263" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="266">
+                    <mxGeometry x="4" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="264" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="266">
+                    <mxGeometry x="91.5" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="265" value="0" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="266">
+                    <mxGeometry x="180" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="269" value="数组下标" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=AlimamaDaoLiTi;fontColor=default;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="266">
+                    <mxGeometry x="172.5" y="38" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="267" value="窗口从左往右滑动&lt;br&gt;确保窗口中 0 位置的数字最小,并且往后是递增的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=LXGW WenKai;fontSize=23;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="35" y="163" width="578" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="268" value="step:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=LXGW WenKai;fontSize=23;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="35" y="381.5" width="77" height="39" as="geometry"/>
+                </mxCell>
+                <mxCell id="270" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="260" y="450" width="282.5" height="78" as="geometry"/>
+                </mxCell>
+                <mxCell id="271" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=AlimamaDaoLiTi;fontSize=23;fontColor=default;fillColor=default;" vertex="1" parent="270">
+                    <mxGeometry width="264" height="74" as="geometry"/>
+                </mxCell>
+                <mxCell id="272" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="270">
+                    <mxGeometry x="4" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="273" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="270">
+                    <mxGeometry x="91.5" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="274" value="0" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="270">
+                    <mxGeometry x="180" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="276" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="345" y="547" width="282.5" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="277" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=AlimamaDaoLiTi;fontSize=23;fontColor=default;fillColor=default;" vertex="1" parent="276">
+                    <mxGeometry width="264" height="74" as="geometry"/>
+                </mxCell>
+                <mxCell id="278" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="276">
+                    <mxGeometry x="4" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="279" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="276">
+                    <mxGeometry x="91.5" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="280" value="2" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="276">
+                    <mxGeometry x="180" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="282" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="436" y="646" width="282.5" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="283" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=AlimamaDaoLiTi;fontSize=23;fontColor=default;fillColor=default;" vertex="1" parent="282">
+                    <mxGeometry width="264" height="74" as="geometry"/>
+                </mxCell>
+                <mxCell id="284" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="282">
+                    <mxGeometry x="4" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="285" value="2" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="282">
+                    <mxGeometry x="91.5" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="286" value="3" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="282">
+                    <mxGeometry x="180" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="287" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="537" y="743" width="282.5" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="288" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=AlimamaDaoLiTi;fontSize=23;fontColor=default;fillColor=default;" vertex="1" parent="287">
+                    <mxGeometry width="264" height="74" as="geometry"/>
+                </mxCell>
+                <mxCell id="289" value="2" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="287">
+                    <mxGeometry x="4" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="290" value="3" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="287">
+                    <mxGeometry x="91.5" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="291" value="4" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="287">
+                    <mxGeometry x="180" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="292" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="629" y="827" width="282.5" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="293" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=AlimamaDaoLiTi;fontSize=23;fontColor=default;fillColor=default;" vertex="1" parent="292">
+                    <mxGeometry width="264" height="74" as="geometry"/>
+                </mxCell>
+                <mxCell id="294" value="3" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="292">
+                    <mxGeometry x="4" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="295" value="4" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="292">
+                    <mxGeometry x="91.5" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="296" value="5" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="292">
+                    <mxGeometry x="180" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="297" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="731" y="918" width="282.5" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="298" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=AlimamaDaoLiTi;fontSize=23;fontColor=default;fillColor=default;" vertex="1" parent="297">
+                    <mxGeometry width="264" height="74" as="geometry"/>
+                </mxCell>
+                <mxCell id="299" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="297">
+                    <mxGeometry x="4" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="300" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="297">
+                    <mxGeometry x="91.5" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="301" value="6" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="297">
+                    <mxGeometry x="180" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="302" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="824" y="1006" width="282.5" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="303" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=AlimamaDaoLiTi;fontSize=23;fontColor=default;fillColor=default;" vertex="1" parent="302">
+                    <mxGeometry width="264" height="74" as="geometry"/>
+                </mxCell>
+                <mxCell id="304" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="302">
+                    <mxGeometry x="4" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="305" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="302">
+                    <mxGeometry x="91.5" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="306" value="7" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=AlimamaDaoLiTi;fontSize=23;" vertex="1" parent="302">
+                    <mxGeometry x="180" y="7.5" width="81" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="307" value="&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=AlimamaDaoLiTi;fontColor=default;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" vertex="1" parent="1">
+                    <mxGeometry x="1119" y="1110" width="25" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
